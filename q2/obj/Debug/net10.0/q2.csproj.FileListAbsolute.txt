@@ -1,0 +1,15 @@
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/bin/Debug/net10.0/q2
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/bin/Debug/net10.0/q2.deps.json
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/bin/Debug/net10.0/q2.runtimeconfig.json
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/bin/Debug/net10.0/q2.dll
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/bin/Debug/net10.0/q2.pdb
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/obj/Debug/net10.0/q2.GeneratedMSBuildEditorConfig.editorconfig
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/obj/Debug/net10.0/q2.AssemblyInfoInputs.cache
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/obj/Debug/net10.0/q2.AssemblyInfo.cs
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/obj/Debug/net10.0/q2.csproj.CoreCompileInputs.cache
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/obj/Debug/net10.0/q2.sourcelink.json
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/obj/Debug/net10.0/q2.dll
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/obj/Debug/net10.0/refint/q2.dll
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/obj/Debug/net10.0/q2.pdb
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/obj/Debug/net10.0/q2.genruntimeconfig.cache
+/home/youssef/projects/RouteTasks/OOP_Ass1/q2/obj/Debug/net10.0/ref/q2.dll
